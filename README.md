@@ -9,6 +9,6 @@
 <div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=harshs404&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 </div>
-<!-- <div align="center">
+<div align="center">
 <img align="center" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=harshs404&layout=compact&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"">
-</div> -->
+</div>
