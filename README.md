@@ -1,8 +1,7 @@
 <img src="https://github.com/Ayush7614/Ayush7614/raw/main/Hello.gif">
 <h1 align="center">Harsh Saxena 👋</h1>
 
-- 🔭 I’m currently learning Java, looking forward to DSA
-- 🌱 I’m intrested to learn Flutter more and Blockchain 
+- 🔭 I’m currently learning Java, looking forward to become Full Stack Dev
 - 💬 Ask me about tech stuff
 - 📫 How to reach me: [Twitter: @harsh_s_01](https://twitter.com/harsh_s_01) , [Instagram: @harsh_s_404](https://www.instagram.com/harsh_s_404/), [Quora: Harsh-Saxena-89](https://www.quora.com/profile/Harsh-Saxena-89)
 
